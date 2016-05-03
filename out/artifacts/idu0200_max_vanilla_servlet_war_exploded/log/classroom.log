@@ -1,3 +1,0 @@
-2016-04-27 01:46:08,391 INFO  [http-nio-8080-exec-2] ee.ttu.idu0200.db.ClassroomDao: findById: id = 1
-2016-04-27 01:46:26,372 INFO  [http-nio-8080-exec-5] ee.ttu.idu0200.ClassroomServlet: ClassroomServlet.init() : I was created
-2016-04-27 01:46:26,659 INFO  [http-nio-8080-exec-5] ee.ttu.idu0200.db.ClassroomDao: findAll: size = 3
